@@ -1,7 +1,7 @@
 {
   "_id": "tbc-studio",
-  "created": "2024-04-23T14:16:25.9102373+02:00",
-  "updated": "2024-04-23T14:16:25.9102443+02:00",
+  "created": "2024-04-23T14:42:03.9028175+02:00",
+  "updated": "2024-04-23T14:42:03.9028241+02:00",
   "rvn": 100,
   "wipeNumber": 1,
   "accountId": "tbc-studio",
@@ -77,7 +77,7 @@
         }
       }
     },
-    "AthenaDance:EID_Resonant": {
+    "AthenaDance:EID_Ringer": {
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -89,7 +89,1183 @@
         "archived": false
       },
       "quantity": 1,
-      "templateId": "AthenaDance:EID_Resonant"
+      "templateId": "AthenaDance:EID_Ringer"
+    },
+    "SparksSong:SID_Placeholder_229": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_229"
+    },
+    "SparksSong:SID_Placeholder_16": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_16"
+    },
+    "SparksSong:SID_Placeholder_34": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_34"
+    },
+    "SparksSong:SID_Placeholder_132": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_132"
+    },
+    "SparksSong:SID_Placeholder_247": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_247"
+    },
+    "SparksSong:SID_Placeholder_32": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_32"
+    },
+    "SparksSong:SID_Placeholder_292": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_292"
+    },
+    "SparksSong:SID_Placeholder_151": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_151"
+    },
+    "SparksSong:SID_Placeholder_262": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_262"
+    },
+    "SparksSong:SID_Placeholder_17": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_17"
+    },
+    "SparksSong:SID_Placeholder_250": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_250"
+    },
+    "SparksSong:SID_Placeholder_103": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_103"
+    },
+    "SparksSong:SID_Placeholder_289": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_289"
+    },
+    "SparksSong:SID_Placeholder_257": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_257"
+    },
+    "SparksSong:SID_Placeholder_225": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_225"
+    },
+    "SparksSong:SID_Placeholder_163": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_163"
+    },
+    "SparksSong:SID_Placeholder_239": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_239"
+    },
+    "SparksSong:SID_Placeholder_273": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_273"
+    },
+    "SparksSong:SID_Placeholder_252": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_252"
+    },
+    "SparksSong:SID_Placeholder_248": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_248"
+    },
+    "SparksSong:SID_Placeholder_188": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_188"
+    },
+    "SparksSong:SID_Placeholder_266": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_266"
+    },
+    "SparksSong:SID_Placeholder_99": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_99"
+    },
+    "SparksSong:SID_Placeholder_64": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_64"
+    },
+    "SparksSong:SID_Placeholder_224": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_224"
+    },
+    "SparksSong:SID_Placeholder_126": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_126"
+    },
+    "SparksSong:SID_Placeholder_84": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_84"
+    },
+    "SparksSong:SID_Placeholder_20": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_20"
+    },
+    "SparksSong:SID_Placeholder_191": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_191"
+    },
+    "SparksSong:SID_Placeholder_299": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_299"
+    },
+    "SparksSong:SID_Placeholder_02": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_02"
+    },
+    "SparksSong:SID_Placeholder_276": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_276"
+    },
+    "SparksSong:SID_Placeholder_90": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_90"
+    },
+    "SparksSong:SID_Placeholder_270": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_270"
+    },
+    "SparksSong:SID_Placeholder_39": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_39"
+    },
+    "SparksSong:SID_Placeholder_152": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_152"
+    },
+    "SparksSong:SID_Placeholder_281": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_281"
+    },
+    "SparksSong:SID_Placeholder_214": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_214"
+    },
+    "SparksSong:SID_Placeholder_53": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_53"
+    },
+    "SparksSong:SID_Placeholder_95": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_95"
+    },
+    "SparksSong:SID_Placeholder_194": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_194"
+    },
+    "SparksSong:SID_Placeholder_109": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_109"
+    },
+    "SparksSong:SID_Placeholder_155": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_155"
+    },
+    "SparksSong:SID_Placeholder_269": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_269"
+    },
+    "SparksSong:SID_Placeholder_182": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_182"
+    },
+    "SparksSong:SID_Placeholder_135": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_135"
+    },
+    "SparksSong:SID_Placeholder_79": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_79"
+    },
+    "SparksSong:SID_Placeholder_286": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_286"
+    },
+    "SparksSong:SID_Placeholder_86": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_86"
+    },
+    "SparksSong:SID_Placeholder_113": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_113"
+    },
+    "SparksSong:SID_Placeholder_293": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_293"
+    },
+    "SparksSong:SID_Placeholder_37": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_37"
+    },
+    "SparksSong:SID_Placeholder_258": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_258"
+    },
+    "SparksSong:SID_Placeholder_177": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_177"
+    },
+    "SparksSong:SID_Placeholder_25": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_25"
+    },
+    "SparksSong:SID_Placeholder_116": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_116"
+    },
+    "SparksSong:SID_Placeholder_251": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_251"
+    },
+    "SparksSong:SID_Placeholder_256": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_256"
+    },
+    "SparksSong:SID_Placeholder_274": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_274"
+    },
+    "SparksSong:SID_Placeholder_175": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_175"
+    },
+    "SparksSong:SID_Placeholder_138": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_138"
+    },
+    "SparksSong:SID_Placeholder_166": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_166"
+    },
+    "SparksSong:SID_Placeholder_150": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_150"
+    },
+    "SparksSong:SID_Placeholder_153": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_153"
+    },
+    "SparksSong:SID_Placeholder_72": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_72"
+    },
+    "SparksSong:SID_Placeholder_70": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_70"
+    },
+    "SparksSong:SID_Placeholder_98": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_98"
+    },
+    "SparksSong:SID_Placeholder_178": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_178"
+    },
+    "SparksSong:SID_Placeholder_186": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_186"
+    },
+    "SparksSong:SID_Placeholder_222": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_222"
+    },
+    "SparksSong:SID_Placeholder_11": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_11"
+    },
+    "SparksSong:SID_Placeholder_298": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_298"
+    },
+    "SparksSong:SID_Placeholder_272": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_272"
+    },
+    "SparksSong:SID_Placeholder_223": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_223"
+    },
+    "SparksSong:SID_Placeholder_131": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_131"
+    },
+    "SparksSong:SID_Placeholder_69": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_69"
+    },
+    "SparksSong:SID_Placeholder_199": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_199"
+    },
+    "SparksSong:SID_Placeholder_198": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_198"
+    },
+    "SparksSong:SID_Placeholder_125": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_125"
+    },
+    "SparksSong:SID_Placeholder_57": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_57"
+    },
+    "SparksSong:SID_Placeholder_74": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_74"
+    },
+    "SparksSong:SID_Placeholder_105": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_105"
+    },
+    "SparksSong:SID_Placeholder_82": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksSong:SID_Placeholder_82"
+    },
+    "AthenaDance:EID_Trajectory": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Trajectory"
     },
     "AthenaDance:EID_Exquisite": {
       "attributes": {
@@ -104,6 +1280,459 @@
       },
       "quantity": 1,
       "templateId": "AthenaDance:EID_Exquisite"
+    },
+    "AthenaLoadingScreen:LSID_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaLoadingScreen:LSID_Random"
+    },
+    "AthenaPickaxe:Pickaxe_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaPickaxe:Pickaxe_Random"
+    },
+    "AthenaDance:SPID_002_XMark": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:SPID_002_XMark"
+    },
+    "AthenaDance:EID_DanceMoves": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_DanceMoves"
+    },
+    "AthenaDance:Emoji_Comm": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:Emoji_Comm"
+    },
+    "AthenaSkyDiveContrail:Trails_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaSkyDiveContrail:Trails_Random"
+    },
+    "AthenaBackpack:BID_STWHeroNoDefaultBackpack": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaBackpack:BID_STWHeroNoDefaultBackpack"
+    },
+    "AthenaBackpack:BID_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaBackpack:BID_Random"
+    },
+    "AthenaBackpack:BID_STWHero": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaBackpack:BID_STWHero"
+    },
+    "AthenaCharacter:CID_A_272_Athena_Commando_F_Prime": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_A_272_Athena_Commando_F_Prime"
+    },
+    "AthenaCharacter:CID_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_Random"
+    },
+    "AthenaCharacter:CID_556_Athena_Commando_F_RebirthDefaultA": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_556_Athena_Commando_F_RebirthDefaultA"
+    },
+    "AthenaCharacter:CID_044_Athena_Commando_F_SciPop": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+    },
+    "AthenaCharacter:CID_560_Athena_Commando_M_RebirthDefaultA": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_560_Athena_Commando_M_RebirthDefaultA"
+    },
+    "AthenaCharacter:CID_884_Athena_Commando_F_ChOneRamirez": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [
+          {
+            "channel": "Material",
+            "active": "Mat1",
+            "owned": [
+              "Mat1",
+              "Mat2"
+            ]
+          }
+        ],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaCharacter:CID_884_Athena_Commando_F_ChOneRamirez"
+    },
+    "AthenaGlider:Glider_ID_176_BlackMondayCape_GrapplerAsset": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaGlider:Glider_ID_176_BlackMondayCape_GrapplerAsset"
+    },
+    "AthenaGlider:Glider_ID_218_MechanicalEngineerFemale": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaGlider:Glider_ID_218_MechanicalEngineerFemale"
+    },
+    "AthenaGlider:Glider_Broomstick": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaGlider:Glider_Broomstick"
+    },
+    "AthenaGlider:Glider_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaGlider:Glider_Random"
+    },
+    "AthenaItemWrap:Wrap_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaItemWrap:Wrap_Random"
+    },
+    "AthenaItemWrap:Wrap_191_GoldenSkeleton": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaItemWrap:Wrap_191_GoldenSkeleton"
+    },
+    "AthenaMusicPack:MusicPack_000_Default": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaMusicPack:MusicPack_000_Default"
+    },
+    "AthenaMusicPack:MusicPack_Random": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaMusicPack:MusicPack_Random"
+    },
+    "TBD:BBID_DefaultBus": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "TBD:BBID_DefaultBus"
+    },
+    "AthenaDance:EID_Ordinary_AcousticGuitar": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Ordinary_AcousticGuitar"
+    },
+    "AthenaDance:EID_Ordinary_Drums": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Ordinary_Drums"
+    },
+    "AthenaDance:EID_Ordinary": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Ordinary"
+    },
+    "AthenaDance:EID_Ordinary_RhythmGuitar": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Ordinary_RhythmGuitar"
+    },
+    "AthenaDance:EID_Ordinary_BassGuitar": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Ordinary_BassGuitar"
+    },
+    "SparksGuitar:Sparks_Guitar_BottlePhone": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [
+          {
+            "channel": "Material",
+            "active": "Mat0",
+            "owned": [
+              "Mat0",
+              "Mat1",
+              "Mat2"
+            ]
+          }
+        ],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "SparksGuitar:Sparks_Guitar_BottlePhone"
+    },
+    "AthenaDance:EID_Resonant": {
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "archived": false
+      },
+      "quantity": 1,
+      "templateId": "AthenaDance:EID_Resonant"
     },
     "AthenaDance:EID_Disconnect": {
       "attributes": {
@@ -133,29 +1762,19 @@
       "quantity": 1,
       "templateId": "AthenaDance:EID_Cadaver"
     },
-    "SparksBass:Sparks_Bass_HeadphoneJack": {
+    "AthenaDance:EID_Affluent": {
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
         "item_seen": true,
         "rnd_sel_cnt": 0,
         "xp": 0,
-        "variants": [
-          {
-            "channel": "Material",
-            "active": "Mat0",
-            "owned": [
-              "Mat0",
-              "Mat1",
-              "Mat2"
-            ]
-          }
-        ],
+        "variants": [],
         "favorite": false,
         "archived": false
       },
       "quantity": 1,
-      "templateId": "SparksBass:Sparks_Bass_HeadphoneJack"
+      "templateId": "AthenaDance:EID_Affluent"
     },
     "TBD:Hero_Jumpsuit_Mutable": {
       "attributes": {
@@ -20747,7 +22366,7 @@
       "quantity": 1,
       "templateId": "AthenaCharacter:Character_StarWalkerFNCS"
     },
-    "AthenaDance:EID_Ordinary_AcousticGuitar": {
+    "AthenaDance:EID_Whisk": {
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
@@ -20759,77 +22378,31 @@
         "archived": false
       },
       "quantity": 1,
-      "templateId": "AthenaDance:EID_Ordinary_AcousticGuitar"
+      "templateId": "AthenaDance:EID_Whisk"
     },
-    "AthenaDance:EID_Ordinary_Drums": {
+    "SparksBass:Sparks_Bass_HeadphoneJack": {
       "attributes": {
         "max_level_bonus": 0,
         "level": 1,
         "item_seen": true,
         "rnd_sel_cnt": 0,
         "xp": 0,
-        "variants": [],
+        "variants": [
+          {
+            "channel": "Material",
+            "active": "Mat0",
+            "owned": [
+              "Mat0",
+              "Mat1",
+              "Mat2"
+            ]
+          }
+        ],
         "favorite": false,
         "archived": false
       },
       "quantity": 1,
-      "templateId": "AthenaDance:EID_Ordinary_Drums"
-    },
-    "AthenaDance:EID_Ordinary": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Ordinary"
-    },
-    "AthenaDance:EID_Ordinary_RhythmGuitar": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Ordinary_RhythmGuitar"
-    },
-    "AthenaDance:EID_Ordinary_BassGuitar": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Ordinary_BassGuitar"
-    },
-    "AthenaDance:EID_Affluent": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Affluent"
+      "templateId": "SparksBass:Sparks_Bass_HeadphoneJack"
     },
     "AthenaBackpack:Backpack_RelayStick": {
       "attributes": {
@@ -20946,1579 +22519,6 @@
       },
       "quantity": 1,
       "templateId": "SparksKeyboard:Sparks_Keytar_RelayStick"
-    },
-    "SparksSong:SID_Placeholder_229": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_229"
-    },
-    "SparksSong:SID_Placeholder_16": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_16"
-    },
-    "SparksSong:SID_Placeholder_34": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_34"
-    },
-    "SparksSong:SID_Placeholder_132": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_132"
-    },
-    "SparksSong:SID_Placeholder_247": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_247"
-    },
-    "SparksSong:SID_Placeholder_32": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_32"
-    },
-    "SparksSong:SID_Placeholder_292": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_292"
-    },
-    "SparksSong:SID_Placeholder_151": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_151"
-    },
-    "SparksSong:SID_Placeholder_262": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_262"
-    },
-    "SparksSong:SID_Placeholder_17": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_17"
-    },
-    "SparksSong:SID_Placeholder_250": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_250"
-    },
-    "SparksSong:SID_Placeholder_103": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_103"
-    },
-    "SparksSong:SID_Placeholder_289": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_289"
-    },
-    "SparksSong:SID_Placeholder_257": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_257"
-    },
-    "SparksSong:SID_Placeholder_225": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_225"
-    },
-    "SparksSong:SID_Placeholder_163": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_163"
-    },
-    "SparksSong:SID_Placeholder_239": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_239"
-    },
-    "SparksSong:SID_Placeholder_273": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_273"
-    },
-    "SparksSong:SID_Placeholder_252": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_252"
-    },
-    "SparksSong:SID_Placeholder_248": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_248"
-    },
-    "SparksSong:SID_Placeholder_188": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_188"
-    },
-    "SparksSong:SID_Placeholder_266": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_266"
-    },
-    "SparksSong:SID_Placeholder_99": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_99"
-    },
-    "SparksSong:SID_Placeholder_64": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_64"
-    },
-    "SparksSong:SID_Placeholder_224": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_224"
-    },
-    "SparksSong:SID_Placeholder_126": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_126"
-    },
-    "SparksSong:SID_Placeholder_84": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_84"
-    },
-    "SparksSong:SID_Placeholder_20": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_20"
-    },
-    "SparksSong:SID_Placeholder_191": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_191"
-    },
-    "SparksSong:SID_Placeholder_299": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_299"
-    },
-    "SparksSong:SID_Placeholder_02": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_02"
-    },
-    "SparksSong:SID_Placeholder_276": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_276"
-    },
-    "SparksSong:SID_Placeholder_90": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_90"
-    },
-    "SparksSong:SID_Placeholder_270": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_270"
-    },
-    "SparksSong:SID_Placeholder_39": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_39"
-    },
-    "SparksSong:SID_Placeholder_152": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_152"
-    },
-    "SparksSong:SID_Placeholder_281": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_281"
-    },
-    "SparksSong:SID_Placeholder_214": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_214"
-    },
-    "SparksSong:SID_Placeholder_53": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_53"
-    },
-    "SparksSong:SID_Placeholder_95": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_95"
-    },
-    "SparksSong:SID_Placeholder_194": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_194"
-    },
-    "SparksSong:SID_Placeholder_109": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_109"
-    },
-    "SparksSong:SID_Placeholder_155": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_155"
-    },
-    "SparksSong:SID_Placeholder_269": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_269"
-    },
-    "SparksSong:SID_Placeholder_182": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_182"
-    },
-    "SparksSong:SID_Placeholder_135": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_135"
-    },
-    "SparksSong:SID_Placeholder_79": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_79"
-    },
-    "SparksSong:SID_Placeholder_286": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_286"
-    },
-    "SparksSong:SID_Placeholder_86": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_86"
-    },
-    "SparksSong:SID_Placeholder_113": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_113"
-    },
-    "SparksSong:SID_Placeholder_293": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_293"
-    },
-    "SparksSong:SID_Placeholder_37": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_37"
-    },
-    "SparksSong:SID_Placeholder_258": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_258"
-    },
-    "SparksSong:SID_Placeholder_177": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_177"
-    },
-    "SparksSong:SID_Placeholder_25": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_25"
-    },
-    "SparksSong:SID_Placeholder_116": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_116"
-    },
-    "SparksSong:SID_Placeholder_251": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_251"
-    },
-    "SparksSong:SID_Placeholder_256": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_256"
-    },
-    "SparksSong:SID_Placeholder_274": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_274"
-    },
-    "SparksSong:SID_Placeholder_175": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_175"
-    },
-    "SparksSong:SID_Placeholder_138": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_138"
-    },
-    "SparksSong:SID_Placeholder_166": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_166"
-    },
-    "SparksSong:SID_Placeholder_150": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_150"
-    },
-    "SparksSong:SID_Placeholder_153": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_153"
-    },
-    "SparksSong:SID_Placeholder_72": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_72"
-    },
-    "SparksSong:SID_Placeholder_70": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_70"
-    },
-    "SparksSong:SID_Placeholder_98": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_98"
-    },
-    "SparksSong:SID_Placeholder_178": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_178"
-    },
-    "SparksSong:SID_Placeholder_186": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_186"
-    },
-    "SparksSong:SID_Placeholder_222": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_222"
-    },
-    "SparksSong:SID_Placeholder_11": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_11"
-    },
-    "SparksSong:SID_Placeholder_298": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_298"
-    },
-    "SparksSong:SID_Placeholder_272": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_272"
-    },
-    "SparksSong:SID_Placeholder_223": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_223"
-    },
-    "SparksSong:SID_Placeholder_131": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_131"
-    },
-    "SparksSong:SID_Placeholder_69": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_69"
-    },
-    "SparksSong:SID_Placeholder_199": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_199"
-    },
-    "SparksSong:SID_Placeholder_198": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_198"
-    },
-    "SparksSong:SID_Placeholder_125": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_125"
-    },
-    "SparksSong:SID_Placeholder_57": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_57"
-    },
-    "SparksSong:SID_Placeholder_74": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_74"
-    },
-    "SparksSong:SID_Placeholder_105": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_105"
-    },
-    "SparksSong:SID_Placeholder_82": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksSong:SID_Placeholder_82"
-    },
-    "SparksGuitar:Sparks_Guitar_BottlePhone": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [
-          {
-            "channel": "Material",
-            "active": "Mat0",
-            "owned": [
-              "Mat0",
-              "Mat1",
-              "Mat2"
-            ]
-          }
-        ],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "SparksGuitar:Sparks_Guitar_BottlePhone"
-    },
-    "AthenaDance:EID_Trajectory": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Trajectory"
-    },
-    "AthenaDance:EID_Ringer": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Ringer"
-    },
-    "AthenaDance:EID_Whisk": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_Whisk"
-    },
-    "AthenaLoadingScreen:LSID_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaLoadingScreen:LSID_Random"
-    },
-    "AthenaPickaxe:Pickaxe_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaPickaxe:Pickaxe_Random"
-    },
-    "AthenaDance:SPID_002_XMark": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:SPID_002_XMark"
-    },
-    "AthenaDance:EID_DanceMoves": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:EID_DanceMoves"
-    },
-    "AthenaDance:Emoji_Comm": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaDance:Emoji_Comm"
-    },
-    "AthenaSkyDiveContrail:Trails_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaSkyDiveContrail:Trails_Random"
-    },
-    "AthenaBackpack:BID_STWHeroNoDefaultBackpack": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaBackpack:BID_STWHeroNoDefaultBackpack"
-    },
-    "AthenaBackpack:BID_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaBackpack:BID_Random"
-    },
-    "AthenaBackpack:BID_STWHero": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaBackpack:BID_STWHero"
-    },
-    "AthenaCharacter:CID_A_272_Athena_Commando_F_Prime": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_A_272_Athena_Commando_F_Prime"
-    },
-    "AthenaCharacter:CID_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_Random"
-    },
-    "AthenaCharacter:CID_556_Athena_Commando_F_RebirthDefaultA": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_556_Athena_Commando_F_RebirthDefaultA"
-    },
-    "AthenaCharacter:CID_044_Athena_Commando_F_SciPop": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
-    },
-    "AthenaCharacter:CID_560_Athena_Commando_M_RebirthDefaultA": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_560_Athena_Commando_M_RebirthDefaultA"
-    },
-    "AthenaCharacter:CID_884_Athena_Commando_F_ChOneRamirez": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [
-          {
-            "channel": "Material",
-            "active": "Mat1",
-            "owned": [
-              "Mat1",
-              "Mat2"
-            ]
-          }
-        ],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaCharacter:CID_884_Athena_Commando_F_ChOneRamirez"
-    },
-    "AthenaGlider:Glider_ID_176_BlackMondayCape_GrapplerAsset": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaGlider:Glider_ID_176_BlackMondayCape_GrapplerAsset"
-    },
-    "AthenaGlider:Glider_ID_218_MechanicalEngineerFemale": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaGlider:Glider_ID_218_MechanicalEngineerFemale"
-    },
-    "AthenaGlider:Glider_Broomstick": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaGlider:Glider_Broomstick"
-    },
-    "AthenaGlider:Glider_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaGlider:Glider_Random"
-    },
-    "AthenaItemWrap:Wrap_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaItemWrap:Wrap_Random"
-    },
-    "AthenaItemWrap:Wrap_191_GoldenSkeleton": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaItemWrap:Wrap_191_GoldenSkeleton"
-    },
-    "AthenaMusicPack:MusicPack_000_Default": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaMusicPack:MusicPack_000_Default"
-    },
-    "AthenaMusicPack:MusicPack_Random": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "AthenaMusicPack:MusicPack_Random"
-    },
-    "TBD:BBID_DefaultBus": {
-      "attributes": {
-        "max_level_bonus": 0,
-        "level": 1,
-        "item_seen": true,
-        "rnd_sel_cnt": 0,
-        "xp": 0,
-        "variants": [],
-        "favorite": false,
-        "archived": false
-      },
-      "quantity": 1,
-      "templateId": "TBD:BBID_DefaultBus"
     }
   },
   "stats": {
